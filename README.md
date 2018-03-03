@@ -1,2 +1,2 @@
 # journal
-a journal
+a journal and stuff
